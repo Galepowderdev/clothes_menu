@@ -1,3 +1,5 @@
-Menu vêtement F7 full configurable et full debug (discord du menu original) --> https://discord.5point.dev 
+Menu vêtement F7 full configurable et full debug
+
+[pas mon scripts original]
 
 Discord --> galepowder 
